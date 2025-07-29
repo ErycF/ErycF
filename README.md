@@ -1,7 +1,5 @@
 <h1 align="center">Olá! Eu sou o Eryc</h1>
 
-###
-
 <h2 align="left">Stats</h2>
 
 ###
