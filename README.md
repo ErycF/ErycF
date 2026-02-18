@@ -3,11 +3,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Eryc+Freire;I'm+19+years+old;I+am+from+Rio+de+Janeiro;I+study+Blockchain+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ErycF&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Eryc Freire github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErycF&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ErycF&show_icons=true&hide_border=true&bg_color=000000&title_color=00bfbf&text_color=ffffff&icon_color=00bfbf" alt="Estatísticas do GitHub de Eryc" />
+  <img width="41%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ErycF&layout=compact&hide_border=true&bg_color=000000&title_color=00bfbf&text_color=ffffff&icon_color=00bfbf" alt="Linguagens mais usadas por Eryc" />
 </div>
+
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ErycF&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
